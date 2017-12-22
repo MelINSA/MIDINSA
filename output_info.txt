@@ -1,0 +1,6 @@
+The exact format of output is up to you guys. Following is the sample output
+
+WorkerID,Client_handled_id,Percentage_Of_Load
+10,2,10%
+
+The percentage of the load is the utilisation of the worker during the whole life-time of the server. Interested students can output these values in real-time, i.e. after a worker finishes a job from the client.
